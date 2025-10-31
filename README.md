@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+# My favorite series
+### Breaking Bad
+Breaking Bad follows Walter White, a struggling, frustrated high school chemistry teacher from Albuquerque, New Mexico, who becomes a crime lord in the local methamphetamine drug trade, driven to provide for his family financially after being diagnosed with inoperable lung cancer. Initially making only small batches of meth with his former student Jesse Pinkman in a rolling meth lab, Walter and Jesse eventually expand to make larger batches of an extremely pure, blue meth which creates high demand. Walter takes on the name "Heisenberg" to mask his identity. 
